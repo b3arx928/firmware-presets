@@ -4,8 +4,8 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: Paul, aos, freestyle, cinematic
-#$ AUTHOR: Chris Rosser
+#$ KEYWORDS: Paul, freestyle, cinematic, speed, noice
+#$ AUTHOR: Paul Nguyen
 #$ DESCRIPTION: Cinematic and freestyle rates for AOS frames with option to match yaw rate to your camera uptilt for easy flat yaw spins.
 #$ DESCRIPTION: Based on my rates tuning guide here: https://youtu.be/P9frW81C31Q?si=ZlSaSpX0i2CAVc-R
 #$ DESCRIPTION: Matching yaw rates is useful for camera uptilts above 30 degrees. It ensures equal deflection of roll and yaw sticks in the same direction gives you a flat yaw spin.
